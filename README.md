@@ -31,4 +31,4 @@ I am a MERN Stack Developer based in Jaipur, India, with a passion for building 
 
 ---
 
-📫 **Let's Connect:** Feel free to reach out to me at bhinsarjagdish2003@gmail.com[cite: 2].
+📫 **Let's Connect:** Feel free to reach out to me at bhinsarjagdish2003@gmail.com.
